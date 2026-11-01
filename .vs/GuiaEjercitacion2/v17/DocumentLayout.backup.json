@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\observer\\playa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\observer\\playa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\factory\\tarifafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\factory\\tarifafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\strategy\\tarifanocturna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\strategy\\tarifanocturna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\strategy\\tarifahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\strategy\\tarifahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\strategy\\tarifaestadia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\strategy\\tarifaestadia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\strategy\\itarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\strategy\\itarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\observer\\iplayaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\observer\\iplayaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\observer\\alertaocupacionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\observer\\alertaocupacionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\observer\\eventoplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\observer\\eventoplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\models\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\models\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\models\\importe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\models\\importe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\models\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\models\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\observer\\pantallalugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\observer\\pantallalugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\observer\\cajaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\observer\\cajaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\observer\\bitacoraobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\observer\\bitacoraobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejerciciof\\singleton\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejerciciof\\singleton\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|d:\\documents\\c# - segundo\\guiaejercitacion2\\ejercicioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347C3FD-58A9-4AA1-8D62-490073900EFC}|GuiaEjercitacion2.csproj|solutionrelative:ejercicioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarifaFactory.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Factory\\TarifaFactory.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Factory\\TarifaFactory.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Factory\\TarifaFactory.cs",
+              "RelativeToolTip": "EjercicioF\\Factory\\TarifaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:48:48.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Importe.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Models\\Importe.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Models\\Importe.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Models\\Importe.cs",
+              "RelativeToolTip": "EjercicioF\\Models\\Importe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:15:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patente.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Models\\Patente.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Models\\Patente.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Models\\Patente.cs",
+              "RelativeToolTip": "EjercicioF\\Models\\Patente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:15:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoEvento.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Models\\TipoEvento.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Models\\TipoEvento.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Models\\TipoEvento.cs",
+              "RelativeToolTip": "EjercicioF\\Models\\TipoEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:12:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventoPlaya.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\EventoPlaya.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\EventoPlaya.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\EventoPlaya.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\EventoPlaya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:47:05.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlertaOcupacionObserver.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\AlertaOcupacionObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\AlertaOcupacionObserver.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\AlertaOcupacionObserver.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\AlertaOcupacionObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:13:14.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPlayaObserver.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\IPlayaObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\IPlayaObserver.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\IPlayaObserver.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\IPlayaObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:51:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:20:58.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarifaHora.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\TarifaHora.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\TarifaHora.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\TarifaHora.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\TarifaHora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:00:02.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playa.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\Playa.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\Playa.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\Playa.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\Playa.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:42:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarifaNocturna.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\TarifaNocturna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:09:19.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarifaEstadia.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\TarifaEstadia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:08:51.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITarifa.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\ITarifa.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Strategy\\ITarifa.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Strategy\\ITarifa.cs",
+              "RelativeToolTip": "EjercicioF\\Strategy\\ITarifa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:58:05.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PantallaLugares.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\PantallaLugares.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\PantallaLugares.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\PantallaLugares.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\PantallaLugares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:07:46.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CajaObserver.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\CajaObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\CajaObserver.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\CajaObserver.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\CajaObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:13:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BitacoraObserver.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\BitacoraObserver.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Observer\\BitacoraObserver.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Observer\\BitacoraObserver.cs",
+              "RelativeToolTip": "EjercicioF\\Observer\\BitacoraObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:14:02.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Singleton\\Bitacora.cs",
+              "RelativeDocumentMoniker": "EjercicioF\\Singleton\\Bitacora.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioF\\Singleton\\Bitacora.cs",
+              "RelativeToolTip": "EjercicioF\\Singleton\\Bitacora.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:53:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EjercicioE.cs",
+              "DocumentMoniker": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioE.cs",
+              "RelativeDocumentMoniker": "EjercicioE.cs",
+              "ToolTip": "D:\\Documents\\C# - Segundo\\GuiaEjercitacion2\\EjercicioE.cs",
+              "RelativeToolTip": "EjercicioE.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T18:02:43.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

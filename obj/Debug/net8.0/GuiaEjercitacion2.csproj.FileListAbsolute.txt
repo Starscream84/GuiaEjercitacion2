@@ -1,0 +1,15 @@
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfoInputs.cache
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfo.cs
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.csproj.CoreCompileInputs.cache
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.sourcelink.json
+D:\Documents\C# - Segundo\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.exe
+D:\Documents\C# - Segundo\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.deps.json
+D:\Documents\C# - Segundo\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.runtimeconfig.json
+D:\Documents\C# - Segundo\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.dll
+D:\Documents\C# - Segundo\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.pdb
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.dll
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\refint\GuiaEjercitacion2.dll
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.pdb
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.genruntimeconfig.cache
+D:\Documents\C# - Segundo\GuiaEjercitacion2\obj\Debug\net8.0\ref\GuiaEjercitacion2.dll
